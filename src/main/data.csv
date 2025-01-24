@@ -1,0 +1,251 @@
+first_name,last_name,city,state,skills,degree,applied_listing_ids
+Scarlett,Taylor,Grand Forks,North Dakota,"Adaptability, Research Skills, Customer Service",Associates,9
+Noah,Evans,Tulsa,Oklahoma,"Time Management, Networking, Negotiation",Post-Doctoral,0
+Aiden,Miller,Spokane,Washington,"Budget Management, Organizational Skills, Problem Solving",Doctoral,"1, 8"
+Sebastian,Thompson,Albuquerque,New Mexico,"Adaptability, Customer Service, Problem Solving",Masters,
+Wyatt,Flores,Knoxville,Tennessee,"Attention to Detail, Project Management, Emotional Intelligence",Doctoral,2
+Daniel,Wilson,Dallas,Texas,"Project Management, Innovation, Presentation Skills",None,"2, 5, 3"
+William,Mitchell,Overland Park,Kansas,"Technical Proficiency, Communication, Self-Motivation",Certificate,5
+Carter,Mitchell,Omaha,Nebraska,"Decision Making, Budget Management, Budget Management",Masters,"2, 4"
+Dylan,Thomas,West Jordan,Utah,"Sales Skills, Budget Management, Digital Literacy",None,"2, 4, 3"
+Noah,Flores,Provo,Utah,"Digital Literacy, Adaptability, Strategic Planning",Bachelors,
+James,Anderson,Bismarck,North Dakota,"Innovation, Interpersonal Skills, Sales Skills",Certificate,"3, 7"
+Lucas,Lewis,Fairbanks,Alaska,"Interpersonal Skills, Decision Making, Time Management",Certificate,"9, 8"
+Isaac,Scott,Great Falls,Montana,"Time Management, Time Management, Digital Literacy",Doctoral,5
+Jack,Scott,Bowling Green,Kentucky,"Analytical Skills, Attention to Detail, Communication",None,8
+Mia,Adams,Greenville,South Carolina,"Problem Solving, Cultural Awareness, Budget Management",Post-Doctoral,"6, 4"
+Evelyn,Martinez,Madison,Wisconsin,"Cultural Awareness, Networking, Cultural Awareness",Doctoral,"7, 8, 9"
+Isaac,Gomez,Grand Forks,North Dakota,"Conflict Resolution, Presentation Skills, Attention to Detail",Doctoral,1
+Carter,Lee,Huntington,West Virginia,"Networking, Decision Making, Self-Motivation",Associates,"0, 6"
+Dylan,Jackson,Mesa,Arizona,"Time Management, Project Management, Research Skills",High School / GED,"7, 6"
+Aubrey,Flores,Tucson,Arizona,"Self-Motivation, Time Management, Conflict Resolution",None,
+Aubrey,Clark,Hilo,Hawaii,"Critical Thinking, Strategic Planning, Budget Management",Post-Doctoral,"9, 1, 8"
+Noah,Hall,Baton Rouge,Louisiana,"Cultural Awareness, Budget Management, Teamwork",Masters,3
+Oliver,Baker,Phoenix,Arizona,"Analytical Skills, Data Analysis, Teamwork",High School / GED,4
+Mia,Campbell,Huntsville,Alabama,"Cultural Awareness, Negotiation, Research Skills",None,
+Abigail,Roberts,Santa Fe,New Mexico,"Teamwork, Digital Literacy, Leadership",Post-Doctoral,"8, 5"
+Aria,Thompson,Jackson,Mississippi,"Project Management, Digital Literacy, Cultural Awareness",Certificate,"6, 4, 1"
+Olivia,Phillips,San Antonio,Texas,"Emotional Intelligence, Critical Thinking, Research Skills",Bachelors,
+Levi,Wilson,Tucson,Arizona,"Decision Making, Creativity, Networking",Bachelors,"2, 6, 7"
+Lucas,Brown,Essex,Vermont,"Research Skills, Data Analysis, Creativity",Associates,4
+William,Lewis,Columbus,Ohio,"Communication, Analytical Skills, Problem Solving",Post-Doctoral,"7, 1"
+John,Johnson,Wichita,Kansas,"Research Skills, Analytical Skills, Digital Literacy",Associates,
+Henry,Smith,Jersey City,New Jersey,"Innovation, Critical Thinking, Project Management",Bachelors,4
+Luna,Harris,Aurora,Colorado,"Negotiation, Conflict Resolution, Cultural Awareness",High School / GED,
+Aubrey,Lewis,Saint Paul,Minnesota,"Adaptability, Innovation, Critical Thinking",High School / GED,"9, 1, 4"
+Jack,Robinson,Rochester,Minnesota,"Creativity, Self-Motivation, Attention to Detail",Bachelors,
+Ava,Hall,Fargo,North Dakota,"Problem Solving, Project Management, Analytical Skills",High School / GED,"3, 0"
+William,Hall,Omaha,Nebraska,"Project Management, Emotional Intelligence, Communication",Masters,
+Alexander,Lee,Evansville,Indiana,"Innovation, Critical Thinking, Communication",High School / GED,"5, 3"
+Skylar,Carter,Tucson,Arizona,"Technical Proficiency, Attention to Detail, Data Analysis",Post-Doctoral,
+William,White,Charleston,West Virginia,"Decision Making, Decision Making, Time Management",Masters,
+Ella,Robinson,Baton Rouge,Louisiana,"Negotiation, Customer Service, Problem Solving",Associates,5
+Nora,Rivera,Concord,New Hampshire,"Critical Thinking, Interpersonal Skills, Negotiation",None,
+Amelia,Lee,Newark,Delaware,"Creativity, Technical Proficiency, Customer Service",Masters,"3, 0, 8"
+Sebastian,Hall,Cedar Rapids,Iowa,"Teamwork, Emotional Intelligence, Customer Service",Post-Doctoral,"9, 8"
+James,Evans,Boston,Massachusetts,"Cultural Awareness, Time Management, Customer Service",High School / GED,"7, 1, 8"
+Ella,Nguyen,Phoenix,Arizona,"Digital Literacy, Creativity, Emotional Intelligence",High School / GED,
+Liam,Torres,Tampa,Florida,"Emotional Intelligence, Technical Proficiency, Technical Proficiency",Post-Doctoral,
+Grace,Martin,Grand Forks,North Dakota,"Project Management, Innovation, Customer Service",Bachelors,"4, 8, 1"
+Olivia,Scott,Morgantown,West Virginia,"Technical Proficiency, Networking, Critical Thinking",Masters,
+John,Smith,Green Bay,Wisconsin,"Digital Literacy, Sales Skills, Adaptability",Associates,"0, 1, 7"
+Michael,Miller,Grand Rapids,Michigan,"Critical Thinking, Conflict Resolution, Innovation",Certificate,"5, 0"
+Jack,Evans,Chicago,Illinois,"Critical Thinking, Data Analysis, Adaptability",None,
+John,Carter,Dover,Delaware,"Networking, Networking, Negotiation",Associates,1
+Nora,Adams,Minneapolis,Minnesota,"Innovation, Interpersonal Skills, Conflict Resolution",High School / GED,"3, 9, 5"
+Scarlett,Torres,New York City,New York,"Customer Service, Creativity, Networking",High School / GED,9
+Harper,Wilson,Bellevue,Nebraska,"Customer Service, Communication, Creativity",Associates,"5, 0"
+Riley,Wright,Memphis,Tennessee,"Customer Service, Emotional Intelligence, Data Analysis",None,"0, 8, 3"
+Jack,Allen,Orlando,Florida,"Presentation Skills, Strategic Planning, Attention to Detail",Bachelors,3
+Nora,Moore,Charleston,West Virginia,"Self-Motivation, Problem Solving, Analytical Skills",Masters,4
+Sebastian,Flores,Worcester,Massachusetts,"Budget Management, Attention to Detail, Communication",Post-Doctoral,"7, 4, 3"
+Ella,Johnson,Oklahoma City,Oklahoma,"Data Analysis, Problem Solving, Time Management",Post-Doctoral,"9, 7"
+Lily,Flores,Knoxville,Tennessee,"Digital Literacy, Communication, Decision Making",None,4
+Chloe,Gomez,Charleston,South Carolina,"Sales Skills, Self-Motivation, Communication",Doctoral,2
+Abigail,Garcia,Las Cruces,New Mexico,"Self-Motivation, Time Management, Project Management",Certificate,5
+Scarlett,Torres,Wichita,Kansas,"Conflict Resolution, Adaptability, Interpersonal Skills",None,"1, 2"
+Olivia,Lee,Eugene,Oregon,"Research Skills, Critical Thinking, Technical Proficiency",High School / GED,5
+Evelyn,Campbell,Overland Park,Kansas,"Sales Skills, Digital Literacy, Negotiation",Post-Doctoral,"5, 0"
+Matthew,Jackson,Worcester,Massachusetts,"Teamwork, Time Management, Cultural Awareness",Bachelors,7
+Ella,Harris,West Jordan,Utah,"Project Management, Strategic Planning, Creativity",High School / GED,
+Ella,Evans,Lexington,Kentucky,"Self-Motivation, Communication, Emotional Intelligence",Bachelors,
+Ella,Wright,Pittsburgh,Pennsylvania,"Creativity, Analytical Skills, Adaptability",Doctoral,4
+Wyatt,Allen,Evansville,Indiana,"Customer Service, Sales Skills, Leadership",Bachelors,"1, 2"
+James,Nguyen,Bellevue,Nebraska,"Project Management, Customer Service, Research Skills",Masters,
+Scarlett,Anderson,Kailua,Hawaii,"Budget Management, Decision Making, Negotiation",Doctoral,"5, 7, 2"
+Chloe,Campbell,Columbia,South Carolina,"Innovation, Critical Thinking, Emotional Intelligence",Post-Doctoral,"8, 7, 1"
+Wyatt,Gomez,Virginia Beach,Virginia,"Conflict Resolution, Time Management, Networking",Masters,"4, 5"
+John,Baker,Colorado Springs,Colorado,"Teamwork, Budget Management, Budget Management",High School / GED,9
+Anthony,Davis,Colorado Springs,Colorado,"Time Management, Creativity, Teamwork",Associates,"0, 5"
+Mia,Brown,Des Moines,Iowa,"Teamwork, Organizational Skills, Communication",High School / GED,
+Ella,Scott,Ann Arbor,Michigan,"Teamwork, Decision Making, Project Management",Post-Doctoral,5
+Jackson,Jones,Columbia,South Carolina,"Cultural Awareness, Digital Literacy, Self-Motivation",Certificate,
+Jack,Jackson,Cheyenne,Wyoming,"Innovation, Presentation Skills, Self-Motivation",Bachelors,6
+Ava,Taylor,Cheyenne,Wyoming,"Attention to Detail, Networking, Adaptability",Doctoral,"1, 7"
+Daniel,Jackson,Philadelphia,Pennsylvania,"Critical Thinking, Conflict Resolution, Emotional Intelligence",None,
+Skylar,Walker,Grand Rapids,Michigan,"Customer Service, Strategic Planning, Sales Skills",Post-Doctoral,"9, 5"
+Elijah,Davis,Salt Lake City,Utah,"Networking, Critical Thinking, Emotional Intelligence",Associates,"0, 6, 2"
+Lucas,Wilson,San Diego,California,"Conflict Resolution, Creativity, Cultural Awareness",Post-Doctoral,"1, 7"
+Scarlett,Miller,Paterson,New Jersey,"Communication, Presentation Skills, Negotiation",Doctoral,"7, 1"
+Jack,Baker,Huntsville,Alabama,"Presentation Skills, Creativity, Creativity",Certificate,4
+Liam,Thompson,Orlando,Florida,"Time Management, Adaptability, Creativity",Certificate,"7, 2, 1"
+Aria,Phillips,New Orleans,Louisiana,"Critical Thinking, Organizational Skills, Self-Motivation",Post-Doctoral,6
+Lily,Scott,Juneau,Alaska,"Analytical Skills, Creativity, Creativity",Associates,9
+Noah,Davis,Springfield,Massachusetts,"Self-Motivation, Adaptability, Communication",None,3
+Sophia,Baker,Huntsville,Alabama,"Project Management, Teamwork, Customer Service",None,
+Isaac,Turner,Mesa,Arizona,"Customer Service, Research Skills, Creativity",Post-Doctoral,9
+James,Anderson,St. Louis,Missouri,"Adaptability, Analytical Skills, Decision Making",Certificate,
+Anthony,Campbell,Davenport,Iowa,"Interpersonal Skills, Interpersonal Skills, Attention to Detail",Masters,
+Elijah,Johnson,Wichita,Kansas,"Leadership, Attention to Detail, Emotional Intelligence",Masters,"0, 7"
+Jack,Torres,Albuquerque,New Mexico,"Data Analysis, Time Management, Budget Management",Post-Doctoral,
+Liam,Harris,Dallas,Texas,"Time Management, Leadership, Technical Proficiency",Masters,
+Anthony,Torres,Columbus,Ohio,"Organizational Skills, Adaptability, Teamwork",Certificate,0
+Lily,Garcia,Bridgeport,Connecticut,"Customer Service, Technical Proficiency, Adaptability",Bachelors,"5, 1, 2"
+Dylan,Evans,Las Cruces,New Mexico,"Analytical Skills, Technical Proficiency, Emotional Intelligence",Certificate,"1, 5, 7"
+Aubrey,Wilson,Allentown,Pennsylvania,"Leadership, Attention to Detail, Presentation Skills",Associates,
+Henry,Miller,Warwick,Rhode Island,"Interpersonal Skills, Sales Skills, Adaptability",Post-Doctoral,"3, 0"
+Riley,Hill,Tulsa,Oklahoma,"Customer Service, Sales Skills, Strategic Planning",Certificate,
+Aiden,Evans,Raleigh,North Carolina,"Research Skills, Adaptability, Analytical Skills",None,8
+Owen,Moore,Casper,Wyoming,"Budget Management, Communication, Interpersonal Skills",None,6
+Oliver,Lewis,Evansville,Indiana,"Self-Motivation, Budget Management, Negotiation",Masters,"5, 6, 2"
+Sadie,Robinson,Los Angeles,California,"Teamwork, Communication, Analytical Skills",Bachelors,3
+Skylar,Thompson,Orlando,Florida,"Teamwork, Networking, Emotional Intelligence",Bachelors,"2, 1"
+Lucas,Davis,Los Angeles,California,"Strategic Planning, Budget Management, Data Analysis",None,6
+Carter,Scott,Tucson,Arizona,"Cultural Awareness, Critical Thinking, Sales Skills",Masters,
+Levi,Adams,Chicago,Illinois,"Leadership, Project Management, Strategic Planning",Certificate,
+Grace,Thomas,Atlanta,Georgia,"Problem Solving, Digital Literacy, Decision Making",Post-Doctoral,"8, 7"
+Mia,Baker,Eugene,Oregon,"Teamwork, Customer Service, Sales Skills",Masters,3
+Lucas,Martin,Virginia Beach,Virginia,"Conflict Resolution, Customer Service, Time Management",Masters,4
+Elijah,Adams,Little Rock,Arkansas,"Digital Literacy, Time Management, Budget Management",High School / GED,
+John,Walker,Billings,Montana,"Cultural Awareness, Budget Management, Leadership",None,"1, 9"
+Riley,White,Cleveland,Ohio,"Negotiation, Negotiation, Cultural Awareness",None,2
+Jack,Lewis,Rochester,Minnesota,"Leadership, Teamwork, Adaptability",Associates,
+Daniel,Hall,Honolulu,Hawaii,"Budget Management, Sales Skills, Time Management",Certificate,"3, 7"
+Abigail,Robinson,Missoula,Montana,"Teamwork, Emotional Intelligence, Analytical Skills",High School / GED,9
+Grace,Hill,Jersey City,New Jersey,"Strategic Planning, Networking, Emotional Intelligence",Bachelors,"9, 8, 6"
+Liam,Harris,Newark,Delaware,"Decision Making, Attention to Detail, Data Analysis",Masters,8
+Alexander,Campbell,Tucson,Arizona,"Negotiation, Technical Proficiency, Presentation Skills",Masters,"1, 5"
+Isaac,Moore,Orlando,Florida,"Cultural Awareness, Decision Making, Conflict Resolution",High School / GED,3
+John,Taylor,Norman,Oklahoma,"Networking, Technical Proficiency, Interpersonal Skills",None,"0, 7"
+Noah,Moore,Las Cruces,New Mexico,"Teamwork, Communication, Adaptability",High School / GED,3
+Evelyn,Garcia,Southaven,Mississippi,"Emotional Intelligence, Analytical Skills, Attention to Detail",Certificate,3
+John,Nelson,Wilmington,Delaware,"Budget Management, Leadership, Creativity",High School / GED,
+Daniel,Jackson,Great Falls,Montana,"Cultural Awareness, Time Management, Data Analysis",Post-Doctoral,
+Ava,Rivera,West Jordan,Utah,"Problem Solving, Organizational Skills, Leadership",Doctoral,2
+Amelia,Carter,Tucson,Arizona,"Sales Skills, Cultural Awareness, Interpersonal Skills",Masters,"8, 5"
+Nora,Hall,Aurora,Colorado,"Adaptability, Innovation, Time Management",High School / GED,
+Aria,Thompson,Milwaukee,Wisconsin,"Leadership, Cultural Awareness, Interpersonal Skills",None,4
+Noah,Moore,Cranston,Rhode Island,"Communication, Decision Making, Sales Skills",Masters,
+Scarlett,Evans,Bridgeport,Connecticut,"Emotional Intelligence, Innovation, Cultural Awareness",Masters,"7, 8"
+Jack,Mitchell,Chesapeake,Virginia,"Leadership, Presentation Skills, Innovation",Associates,"6, 4"
+Aiden,Campbell,Tacoma,Washington,"Budget Management, Cultural Awareness, Digital Literacy",Doctoral,"0, 1, 5"
+Evelyn,Scott,Tucson,Arizona,"Leadership, Communication, Organizational Skills",None,
+Dylan,Evans,Hilo,Hawaii,"Self-Motivation, Budget Management, Project Management",Associates,
+Chloe,King,Columbia,Maryland,"Strategic Planning, Time Management, Cultural Awareness",Doctoral,2
+Wyatt,King,Baltimore,Maryland,"Emotional Intelligence, Creativity, Emotional Intelligence",None,"6, 2"
+John,Smith,Indianapolis,Indiana,"Strategic Planning, Budget Management, Digital Literacy",Masters,"9, 6"
+Luna,Nelson,Philadelphia,Pennsylvania,"Organizational Skills, Innovation, Organizational Skills",Associates,
+Grace,Wilson,Wichita,Kansas,"Digital Literacy, Digital Literacy, Emotional Intelligence",Masters,"9, 7, 8"
+Evelyn,Lee,Omaha,Nebraska,"Sales Skills, Creativity, Emotional Intelligence",Post-Doctoral,"1, 8, 4"
+Carter,Roberts,Columbia,South Carolina,"Negotiation, Digital Literacy, Strategic Planning",Bachelors,2
+Evelyn,Flores,Milwaukee,Wisconsin,"Digital Literacy, Technical Proficiency, Interpersonal Skills",Bachelors,"7, 0, 8"
+Zoey,Moore,Fort Smith,Arkansas,"Decision Making, Self-Motivation, Budget Management",Certificate,2
+Sophia,Campbell,Billings,Montana,"Time Management, Budget Management, Conflict Resolution",Post-Doctoral,"5, 9, 7"
+Henry,Davis,Missoula,Montana,"Communication, Research Skills, Self-Motivation",Certificate,"8, 7, 0"
+Amelia,Thompson,Springfield,Missouri,"Budget Management, Innovation, Decision Making",Bachelors,
+James,Brown,Denver,Colorado,"Networking, Adaptability, Sales Skills",Masters,"4, 8"
+Mila,Young,Reno,Nevada,"Organizational Skills, Digital Literacy, Innovation",Doctoral,"8, 6, 4"
+Grace,Harris,Bangor,Maine,"Digital Literacy, Communication, Negotiation",Certificate,"2, 0"
+Liam,Thompson,Sparks,Nevada,"Strategic Planning, Sales Skills, Budget Management",None,"2, 8"
+Ava,Moore,Cheyenne,Wyoming,"Self-Motivation, Creativity, Networking",Certificate,"5, 3"
+Noah,Phillips,Cheyenne,Wyoming,"Negotiation, Interpersonal Skills, Attention to Detail",None,
+Sebastian,Wilson,Aurora,Illinois,"Project Management, Attention to Detail, Adaptability",Masters,"1, 5"
+Michael,Hill,Santa Fe,New Mexico,"Sales Skills, Customer Service, Communication",High School / GED,"0, 7"
+Alexander,Moore,Cleveland,Ohio,"Technical Proficiency, Self-Motivation, Networking",High School / GED,0
+Amelia,Flores,Indianapolis,Indiana,"Leadership, Communication, Time Management",High School / GED,1
+Zoey,Hall,Huntsville,Alabama,"Budget Management, Project Management, Conflict Resolution",Masters,"6, 5"
+Aiden,Adams,Warwick,Rhode Island,"Cultural Awareness, Organizational Skills, Budget Management",Post-Doctoral,"5, 9"
+Mila,Lee,Cedar Rapids,Iowa,"Digital Literacy, Presentation Skills, Communication",High School / GED,3
+Noah,Nguyen,Las Vegas,Nevada,"Organizational Skills, Creativity, Negotiation",Bachelors,"4, 5"
+Lucas,Harris,Louisville,Kentucky,"Leadership, Creativity, Critical Thinking",Doctoral,"9, 7, 5"
+Jackson,Smith,Denver,Colorado,"Interpersonal Skills, Presentation Skills, Attention to Detail",Post-Doctoral,
+Isabella,Clark,Denver,Colorado,"Communication, Time Management, Research Skills",None,
+Michael,Campbell,Wilmington,Delaware,"Decision Making, Networking, Budget Management",Associates,"6, 2, 9"
+Anthony,Jones,Norfolk,Virginia,"Sales Skills, Decision Making, Conflict Resolution",Masters,"9, 2"
+Harper,Hall,Springfield,Missouri,"Interpersonal Skills, Critical Thinking, Research Skills",Bachelors,"8, 3, 1"
+Sadie,Miller,Laramie,Wyoming,"Customer Service, Customer Service, Communication",Post-Doctoral,"5, 8"
+Daniel,Smith,Juneau,Alaska,"Innovation, Sales Skills, Innovation",High School / GED,
+Aubrey,Turner,San Antonio,Texas,"Sales Skills, Interpersonal Skills, Networking",Post-Doctoral,8
+Oliver,Wilson,Charlotte,North Carolina,"Leadership, Adaptability, Communication",Post-Doctoral,"7, 6, 8"
+Mila,Johnson,Laramie,Wyoming,"Technical Proficiency, Adaptability, Innovation",High School / GED,
+Michael,Thompson,Sparks,Nevada,"Sales Skills, Networking, Budget Management",Masters,"0, 7"
+Sebastian,Green,Fort Wayne,Indiana,"Customer Service, Networking, Technical Proficiency",Bachelors,7
+Jack,Robinson,Tacoma,Washington,"Adaptability, Sales Skills, Conflict Resolution",Bachelors,
+Harper,Martin,Aurora,Colorado,"Self-Motivation, Self-Motivation, Attention to Detail",Associates,"3, 0"
+Jackson,Campbell,New Orleans,Louisiana,"Leadership, Leadership, Cultural Awareness",None,
+Michael,Scott,Charleston,South Carolina,"Sales Skills, Emotional Intelligence, Customer Service",High School / GED,"3, 0"
+Sebastian,Williams,Birmingham,Alabama,"Decision Making, Adaptability, Leadership",Certificate,
+Lucas,Gomez,Las Vegas,Nevada,"Self-Motivation, Decision Making, Critical Thinking",Certificate,"7, 9"
+Mila,Lewis,Tampa,Florida,"Creativity, Teamwork, Leadership",Masters,"7, 6"
+Owen,Moore,Jackson,Mississippi,"Attention to Detail, Presentation Skills, Teamwork",High School / GED,
+Skylar,Lee,Lexington,Kentucky,"Emotional Intelligence, Innovation, Conflict Resolution",Bachelors,"0, 6"
+Daniel,Moore,St. Louis,Missouri,"Innovation, Networking, Decision Making",High School / GED,
+Isabella,Campbell,Oklahoma City,Oklahoma,"Decision Making, Creativity, Communication",High School / GED,2
+Riley,Roberts,Bangor,Maine,"Organizational Skills, Data Analysis, Analytical Skills",Bachelors,"6, 3, 7"
+Nora,Moore,Louisville,Kentucky,"Negotiation, Critical Thinking, Self-Motivation",Doctoral,
+Daniel,Adams,Nashville,Tennessee,"Adaptability, Interpersonal Skills, Emotional Intelligence",High School / GED,5
+Jackson,Baker,Aberdeen,South Dakota,"Sales Skills, Attention to Detail, Communication",Bachelors,"9, 3"
+Isaac,Flores,Cranston,Rhode Island,"Innovation, Networking, Data Analysis",Bachelors,"6, 0"
+Ella,Martin,Houston,Texas,"Creativity, Analytical Skills, Innovation",Bachelors,"0, 7"
+Matthew,Allen,Los Angeles,California,"Customer Service, Research Skills, Sales Skills",None,"9, 6"
+Noah,Turner,Morgantown,West Virginia,"Customer Service, Budget Management, Budget Management",Associates,"0, 2"
+Dylan,Rodriguez,Essex,Vermont,"Interpersonal Skills, Organizational Skills, Communication",High School / GED,"5, 9"
+Liam,Adams,St. Louis,Missouri,"Presentation Skills, Analytical Skills, Critical Thinking",Bachelors,
+Evelyn,Taylor,Newark,New Jersey,"Adaptability, Research Skills, Time Management",None,"2, 5, 8"
+Nora,Thomas,Missoula,Montana,"Time Management, Presentation Skills, Innovation",Post-Doctoral,"0, 9"
+Lily,Hall,Paterson,New Jersey,"Leadership, Digital Literacy, Communication",Doctoral,3
+Aubrey,Jackson,Springfield,Massachusetts,"Presentation Skills, Research Skills, Sales Skills",Post-Doctoral,"1, 5"
+Scarlett,Smith,Colorado Springs,Colorado,"Interpersonal Skills, Attention to Detail, Adaptability",High School / GED,"8, 7"
+Levi,Flores,San Francisco,California,"Teamwork, Self-Motivation, Organizational Skills",Post-Doctoral,8
+Isabella,Turner,Omaha,Nebraska,"Leadership, Leadership, Organizational Skills",None,
+Lucas,Johnson,New York City,New York,"Adaptability, Analytical Skills, Conflict Resolution",Bachelors,"0, 8"
+Olivia,Turner,Mesa,Arizona,"Sales Skills, Leadership, Customer Service",High School / GED,"3, 2"
+Aiden,Robinson,Milwaukee,Wisconsin,"Technical Proficiency, Time Management, Cultural Awareness",Certificate,
+John,Clark,Casper,Wyoming,"Technical Proficiency, Self-Motivation, Analytical Skills",Certificate,
+Carter,Hill,Southaven,Mississippi,"Organizational Skills, Negotiation, Teamwork",High School / GED,5
+Matthew,Martinez,Norfolk,Virginia,"Technical Proficiency, Teamwork, Communication",Masters,"0, 7"
+Ava,King,Missoula,Montana,"Leadership, Innovation, Digital Literacy",Bachelors,7
+Benjamin,Taylor,Burlington,Vermont,"Time Management, Technical Proficiency, Creativity",None,"6, 9"
+Mila,Johnson,Buffalo,New York,"Conflict Resolution, Interpersonal Skills, Strategic Planning",Post-Doctoral,"1, 9"
+Scarlett,Carter,Silver Spring,Maryland,"Emotional Intelligence, Customer Service, Technical Proficiency",Doctoral,"5, 9, 2"
+Ava,Green,San Diego,California,"Teamwork, Interpersonal Skills, Leadership",Post-Doctoral,"5, 7"
+Sophia,Williams,Memphis,Tennessee,"Analytical Skills, Decision Making, Strategic Planning",Doctoral,
+Lily,Brown,Atlanta,Georgia,"Emotional Intelligence, Conflict Resolution, Self-Motivation",High School / GED,"8, 7"
+Sophia,Gomez,Cleveland,Ohio,"Interpersonal Skills, Cultural Awareness, Organizational Skills",Certificate,
+Aiden,Rivera,Nashua,New Hampshire,"Innovation, Research Skills, Self-Motivation",Post-Doctoral,
+Jack,Brown,Saint Paul,Minnesota,"Self-Motivation, Communication, Digital Literacy",Bachelors,
+Harper,Hall,South Burlington,Vermont,"Strategic Planning, Budget Management, Project Management",Certificate,"4, 1"
+Emma,Allen,Virginia Beach,Virginia,"Organizational Skills, Creativity, Analytical Skills",Associates,"1, 7, 5"
+Jack,Jones,Warwick,Rhode Island,"Sales Skills, Innovation, Time Management",High School / GED,"1, 9"
+Owen,Turner,Chicago,Illinois,"Negotiation, Time Management, Digital Literacy",None,
+Ella,Robinson,Bridgeport,Connecticut,"Innovation, Leadership, Emotional Intelligence",Certificate,
+Liam,Wilson,Charleston,West Virginia,"Adaptability, Networking, Innovation",Associates,
+Mia,Baker,Grand Rapids,Michigan,"Adaptability, Strategic Planning, Research Skills",Masters,"0, 4"
+Oliver,Wilson,Augusta,Maine,"Budget Management, Time Management, Digital Literacy",Certificate,"4, 6"
+James,Davis,Juneau,Alaska,"Self-Motivation, Budget Management, Negotiation",Certificate,"6, 7"
+Wyatt,King,Boise,Idaho,"Data Analysis, Project Management, Project Management",Associates,
+Emma,Hall,Des Moines,Iowa,"Self-Motivation, Communication, Strategic Planning",Doctoral,"1, 6"
+Skylar,Carter,Fort Wayne,Indiana,"Digital Literacy, Creativity, Customer Service",High School / GED,"5, 4"
+Ella,Rivera,Bismarck,North Dakota,"Presentation Skills, Decision Making, Customer Service",Post-Doctoral,"8, 3, 0"
+Skylar,Harris,Nashua,New Hampshire,"Data Analysis, Presentation Skills, Customer Service",Doctoral,"2, 3"
+Anthony,Flores,Albuquerque,New Mexico,"Analytical Skills, Research Skills, Customer Service",High School / GED,"0, 6"
+Ava,Allen,Charleston,West Virginia,"Critical Thinking, Presentation Skills, Analytical Skills",Doctoral,
+Olivia,Nguyen,Tucson,Arizona,"Teamwork, Analytical Skills, Analytical Skills",Bachelors,3
+Michael,Smith,Huntsville,Alabama,"Critical Thinking, Strategic Planning, Emotional Intelligence",Certificate,"9, 0, 8"
+Anthony,Brown,Providence,Rhode Island,"Innovation, Digital Literacy, Adaptability",Masters,"5, 3"
+Evelyn,Williams,Reno,Nevada,"Leadership, Problem Solving, Emotional Intelligence",Bachelors,3
+Elijah,Lewis,Pittsburgh,Pennsylvania,"Problem Solving, Attention to Detail, Sales Skills",Associates,"9, 2"
+Riley,Phillips,Rochester,New York,"Self-Motivation, Adaptability, Problem Solving",None,
+Wyatt,Harris,Boston,Massachusetts,"Negotiation, Strategic Planning, Emotional Intelligence",Certificate,"6, 1"
+Ella,Taylor,Chicago,Illinois,"Attention to Detail, Strategic Planning, Conflict Resolution",None,
+Emma,Moore,Newark,New Jersey,"Leadership, Creativity, Teamwork",Masters,
