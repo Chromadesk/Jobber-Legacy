@@ -21,7 +21,7 @@ public class AppData {
         }
     }
 
-    public static void readDataCSV() throws IOException {
+    private static void readDataCSV() throws IOException {
         Reader in = new FileReader(FILE_PATH);
 
         CSVFormat csvFormat = CSVFormat.DEFAULT.builder()
@@ -34,7 +34,7 @@ public class AppData {
         System.out.println("Successfully loaded records.");
     }
 
-    public static void generateCSV() throws IOException {
+    private static void generateCSV() throws IOException {
         FileWriter out = new FileWriter(FILE_PATH);
 
         String[] headers = {
@@ -73,12 +73,12 @@ public class AppData {
         printer.flush();
     }
 
-    public static String getRandElement(String[] arr) {
+    private static String getRandElement(String[] arr) {
         int index = new Random().nextInt(arr.length);
         return arr[index];
     }
 
-    public static String getRandElement(Set<String> arr) {
+    private static String getRandElement(Set<String> arr) {
         int index = new Random().nextInt(arr.size());
 
         int i = 0;
